@@ -1,0 +1,9 @@
+Rencana Belajar Ngoding untuk menjadi seorang Front End Developer
+
+-HTML
+  *Pengenalan HTML
+  *Contoh HTML
+-CSS
+-Javascript
+-Framework
+-Bootstrap
