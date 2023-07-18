@@ -7,5 +7,7 @@ Rencana Belajar Ngoding untuk menjadi seorang Front End Developer
 -Javascript
   *ES6
   *Framework Javascript
+   1.Vue
 -Framework
 -Bootstrap
+-Python
